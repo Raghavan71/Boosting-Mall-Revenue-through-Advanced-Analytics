@@ -118,5 +118,5 @@ if features:
         st.write(group[['CustomerID', 'Age', 'Annual Income (k$)', 'Spending Score (1-100)']])
 
 # Footer
-st.sidebar.text("Ganesh Puppala")
+st.sidebar.text("Santhosh Reddy")
 
